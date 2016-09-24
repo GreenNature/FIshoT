@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ico.ico</file>
+        <file>Resource/Ex9MlTC.jpg</file>
+        <file>Resource/1473258333_gear.ico</file>
+    </qresource>
+</RCC>
